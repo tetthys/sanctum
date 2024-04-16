@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.1...4.x)
+## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.2...4.x)
+
+## [v4.0.2](https://github.com/laravel/sanctum/compare/v4.0.1...v4.0.2) - 2024-04-10
+
+* Fix/unable to logout by [@GigaGiorgadze](https://github.com/GigaGiorgadze) in https://github.com/laravel/sanctum/pull/511
 
 ## [v4.0.1](https://github.com/laravel/sanctum/compare/v4.0.0...v4.0.1) - 2024-03-19
 
