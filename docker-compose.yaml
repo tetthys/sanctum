@@ -1,0 +1,7 @@
+services:
+  php:
+    build: ./dockerimages/php
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true
